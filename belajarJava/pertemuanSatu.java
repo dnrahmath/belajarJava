@@ -14,5 +14,14 @@ public class pertemuanSatu
       
       /**/
 
+      //----------------------------------------------------
+
+      //variabel
+      String a = "ini String";    // ini type data String
+      int b = 10;    // ini type data Integer
+
+      System.out.println(a);  
+      System.out.println(b);  
+
   }  
 }
