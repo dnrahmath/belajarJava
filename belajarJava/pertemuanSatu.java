@@ -1,35 +1,10 @@
 package belajarJava;
 
-
-/**
- * Write a description of class pertemuanSatu here.
- *
- * @author (your name)
- * @version (a version number or a date)
- */
 public class pertemuanSatu
 {
-    // instance variables - replace the example below with your own
-    private int x;
+    public static void main(String args[]){  
 
-    /**
-     * Constructor for objects of class pertemuanSatu
-     */
-    public pertemuanSatu()
-    {
-        // initialise instance variables
-        x = 0;
-    }
+      System.out.println("Hello world");  
 
-    /**
-     * An example of a method - replace this comment with your own
-     *
-     * @param  y  a sample parameter for a method
-     * @return    the sum of x and y
-     */
-    public int sampleMethod(int y)
-    {
-        // put your code here
-        return x + y;
-    }
+  }  
 }
