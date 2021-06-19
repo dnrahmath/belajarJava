@@ -23,5 +23,20 @@ public class pertemuanSatu
       System.out.println(a);  
       System.out.println(b);  
 
+
+
+      // --- Operator Relasional (==,!=,>=,<=,>,<) Operator Pembanding
+      // --- Operator Logic (&&,||) Operator Logika
+
+      //disjungsi (atau)
+      boolean c = 10 == 10 || 10 == 10; 
+      
+      //konjungsi (dan)
+      boolean d = 10 == 10 && 10 == 10; 
+
+      System.out.println(c);  
+      System.out.println(d);
+
+      System.out.println(!c);  //operator negasi (bukan)
   }  
 }
